@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "sass":"sass --watch sass/style.scss css/style.css --style compressed",
+        "sass_carousels":"sass --watch carousels/sass/style.scss carousels/css/carousels.css --style compressed"
+    }
+}
